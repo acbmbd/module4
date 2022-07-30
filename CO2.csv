@@ -1,4 +1,4 @@
-  Yr, Mn,    Date,      Date,     CO2 [ppm],seasonally adjusted [ppm],        fit [ppm],  seasonally adjusted fit [ppm],      CO2 filled [ppm], seasonally adjusted fill [ppm]
+  Yr, Mn,    Date,      Date,     CO2 [ppm],seasonally adjusted [ppm],        fit [ppm],  seasonally adjusted fit [ppm],      CO2 filled [ppm], seasonally adjusted filled [ppm]
 1958, 01,   21200, 1958.0411,   -99.99,   -99.99,     -99.99,   -99.99,     -99.99,   -99.99
 1958, 02,   21231, 1958.1260,   -99.99,   -99.99,     -99.99,   -99.99,     -99.99,   -99.99
 1958, 03,   21259, 1958.2027,   315.70,   314.43,     316.19,   314.90,     315.70,   314.43
